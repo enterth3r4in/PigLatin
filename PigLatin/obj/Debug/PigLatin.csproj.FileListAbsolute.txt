@@ -1,0 +1,8 @@
+C:\Users\CM185181\Documents\GitHub\PigLatin\PigLatin\bin\Debug\PigLatin.exe.config
+C:\Users\CM185181\Documents\GitHub\PigLatin\PigLatin\bin\Debug\PigLatin.exe
+C:\Users\CM185181\Documents\GitHub\PigLatin\PigLatin\bin\Debug\PigLatin.pdb
+C:\Users\CM185181\Documents\GitHub\PigLatin\PigLatin\obj\Debug\PigLatin.Form1.resources
+C:\Users\CM185181\Documents\GitHub\PigLatin\PigLatin\obj\Debug\PigLatin.Properties.Resources.resources
+C:\Users\CM185181\Documents\GitHub\PigLatin\PigLatin\obj\Debug\PigLatin.csproj.GenerateResource.Cache
+C:\Users\CM185181\Documents\GitHub\PigLatin\PigLatin\obj\Debug\PigLatin.exe
+C:\Users\CM185181\Documents\GitHub\PigLatin\PigLatin\obj\Debug\PigLatin.pdb
